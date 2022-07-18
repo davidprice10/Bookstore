@@ -1,0 +1,15 @@
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.deps.json
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.dll
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\bin\Debug\net6.0\ref\BookStore.Repository.dll
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.pdb
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfoInputs.cache
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfo.cs
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.dll
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\obj\Debug\net6.0\ref\BookStore.Repository.dll
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.pdb
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.AssemblyReference.cache
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Domain.dll
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\bin\Debug\net6.0\BookStore.Domain.pdb
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CopyComplete

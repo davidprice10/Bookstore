@@ -1,0 +1,11 @@
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Domain\bin\Debug\net6.0\BookStore.Domain.deps.json
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Domain\bin\Debug\net6.0\BookStore.Domain.dll
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Domain\bin\Debug\net6.0\ref\BookStore.Domain.dll
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Domain\bin\Debug\net6.0\BookStore.Domain.pdb
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.AssemblyInfoInputs.cache
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.AssemblyInfo.cs
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.csproj.CoreCompileInputs.cache
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.dll
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Domain\obj\Debug\net6.0\ref\BookStore.Domain.dll
+E:\Programming Software\Fork\LenusHealthTest\BookStore\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.pdb
