@@ -1,4 +1,4 @@
-# LenusHealthTest
+# Bookstore
 A .Net Core CRUD Web API for a book store utilizing the UnitOfWork and Repository design pattern.
 
 ## How to run
